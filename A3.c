@@ -1,7 +1,4 @@
 /* Assignment 3
- * Nikolay Nikolov
- * 04/28/2019
- * The module is based on Assignment 2 code
  */
 
 #include <linux/module.h>

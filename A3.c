@@ -1,5 +1,4 @@
-/* Assignment 3
- */
+/* Assignment 3*/
 
 #include <linux/module.h>
 #include <linux/types.h>

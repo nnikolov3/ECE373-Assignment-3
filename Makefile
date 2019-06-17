@@ -1,4 +1,3 @@
-# Nikolay Nikolov
 # ECE373 Makefile for Assignment 2
 # The  makefile for the hello.c module
 # Few Notes from the textbook "Linux Device Drivers" by John Madieu

@@ -1,8 +1,4 @@
-/* Userspace program
- * Nikolay Nikolov
- *
- *
- */
+/* Userspace program */
 
 #include <unistd.h>
 #include <fcntl.h>
